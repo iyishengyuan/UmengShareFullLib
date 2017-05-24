@@ -21,5 +21,5 @@ Step 1. Add the JitPack repository to your build file Add it in your root build.
 Step 2. Add the dependency
 
     dependencies {
-          
+        compile 'com.github.iyishengyuan:UmengShareFullLib:1.0.2'
     }
